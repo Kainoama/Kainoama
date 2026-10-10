@@ -5,14 +5,14 @@ I recently graduated from UCL with an MSc in Health Data Science. Most of my exp
 ## Projects
 
 ### Financial & Business Analytics
-- **[SBA Loan Risk Analysis](REPLACE_WITH_REPO_LINK)** — Analyzed 350,000+ SBA loan records to assess financial risk, predict loan defaults, and estimate expected losses.
+- **[SBA Loan Risk Analysis](https://github.com/Kainoama/SBA-Loan-Risk-Analysis-and-Pricing-Optimization)** — Analyzed 350,000+ SBA loan records to assess financial risk, predict loan defaults, and estimate expected losses.
 
 ### Healthcare & NLP
-- **[Cystic Fibrosis Text Mining](REPLACE_WITH_REPO_LINK)** — Applied text mining and NLP to cystic fibrosis research literature to investigate treatment effects and adverse events.
-- **[Clinical NLP & Computer Vision Prediction](REPLACE_WITH_REPO_LINK)** — Evaluated whether ClinicalBERT embeddings from radiology reports could predict computer vision model confidence in nasogastric tube placement detection.
+- **[Cystic Fibrosis Text Mining](https://github.com/Kainoama/Cystic-Fibrosis-Research-Text-Mining)** — Applied text mining and NLP to cystic fibrosis research literature to investigate treatment effects and adverse events.
+- **[Clinical NLP & Computer Vision Prediction](https://github.com/Kainoama/NLP-Prediction-of-CV-Model-Difficulty)** — Evaluated whether ClinicalBERT embeddings from radiology reports could predict computer vision model confidence in nasogastric tube placement detection.
 
 ### Bioinformatics
-- **[Huntsman Cancer Institute: Protein–Metabolite Data Integration](REPLACE_WITH_REPO_LINK)** — Developed an R pipeline integrating MIDAS data with UniProt and HMDB, annotating 79,000+ protein–metabolite interactions and identifying approximately 80 potentially novel interactions.
+- **[Huntsman Cancer Institute: Protein–Metabolite Data Integration](https://github.com/Kainoama/Bioinformatics-Data-Integration-PMI-Analysis)** — Developed an R pipeline integrating MIDAS data with UniProt and HMDB, annotating 79,000+ protein–metabolite interactions and identifying approximately 80 potentially novel interactions.
 
 ## Technical Skills
 
