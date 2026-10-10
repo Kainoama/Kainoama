@@ -1,4 +1,4 @@
-# Hi, I'm Kainoa Martinez!
+# Hi, I'm Kainoa!
 
 MSc Health Data Science graduate from University College London with experience in data analysis, machine learning, and research across healthcare and biological data. I'm interested in applying data-driven methods to solve problems in healthcare, business, and finance.
 
