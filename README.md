@@ -1,4 +1,4 @@
-# Hi, I'm Kainoa!
+# Hey, I'm Kainoa!
 
 I recently graduated from UCL with an MSc in Health Data Science. Most of my experience so far has been in healthcare research and data analysis, but I’m also interested in finance and business analytics, particularly how data can inform financial decisions and help organizations understand their performance. I’m looking to build on my data science background across both healthcare and finance.
 
