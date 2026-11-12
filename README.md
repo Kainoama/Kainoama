@@ -23,4 +23,4 @@ I recently graduated from UCL with an MSc in Health Data Science. Most of my exp
 ## Education
 
 **University College London (UCL)** — MSc Health Data Science  
-**University of Southern California (USC)** — B.S. in Health and Human Sciences
+**University of Southern California (USC)** — B.A. in Health and Human Sciences
