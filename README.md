@@ -1,6 +1,6 @@
 # Hi I'm Kainoa!
 
-I recently graduated from UCL with an MSc in Health Data Science. Most of my experience so far has been in healthcare research and data analysis, but I’m also interested in finance and business analytics, particularly how data can inform financial decisions and help organizations understand their performance. I’m looking to build on my data science background across both healthcare and finance.
+I recently graduated from UCL with an MSc in Health Data Science. Most of my experience so far has been in healthcare research and data analysis, but I'm also interested in finance and business analytics, particularly how data can inform financial decisions and help organizations understand their performance. I'm looking to build on my data science background across both healthcare and finance.
 
 ## Projects
 
@@ -8,6 +8,7 @@ I recently graduated from UCL with an MSc in Health Data Science. Most of my exp
 - **[SBA Loan Risk Analysis](https://github.com/Kainoama/SBA-Loan-Risk-Analysis-and-Pricing-Optimization)** — Analyzed 350,000+ SBA loan records to assess financial risk, predict loan defaults, and estimate expected losses.
 
 ### Healthcare & NLP
+- **[Patient Question Classification with RAG](https://github.com/Kainoama/patient-question-classification-rag)** — Compared a TF-IDF baseline against a retrieval-augmented LLM pipeline to classify patient questions into 906 diseases, raising accuracy from 44% to 66%.
 - **[Cystic Fibrosis Text Mining](https://github.com/Kainoama/Cystic-Fibrosis-Research-Text-Mining)** — Applied text mining and NLP to cystic fibrosis research literature to investigate treatment effects and adverse events.
 - **[Clinical NLP & Computer Vision Prediction](https://github.com/Kainoama/NLP-Prediction-of-CV-Model-Difficulty)** — Evaluated whether ClinicalBERT embeddings from radiology reports could predict computer vision model confidence in nasogastric tube placement detection.
 
@@ -17,8 +18,8 @@ I recently graduated from UCL with an MSc in Health Data Science. Most of my exp
 ## Technical Skills
 
 **Languages:** Python, R, SQL  
-**Analytics & Machine Learning:** Data analysis, regression, classification, Random Forest, XGBoost, PCA  
-**Other Tools:** GitHub, Power BI, Excel, MySQL
+**Analytics & Machine Learning:** Data analysis, regression, classification, NLP (TF-IDF, RAG), Random Forest, XGBoost, PCA  
+**Libraries & Tools:** pandas, scikit-learn, spaCy, GitHub, Excel, MySQL
 
 ## Education
 
